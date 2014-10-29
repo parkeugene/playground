@@ -5,7 +5,7 @@ Ruby의 테스트 툴인 Rspec을 이용하여 알고리즘을 개선합니다.
 설치
 ===
 먼저 bundler가 설치돼 있어야 합니다.  
-gem install bundle  
+gem install bundler  
 
 https://github.com/parkeugene/playground.git  
 cd playground  
