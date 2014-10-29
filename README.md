@@ -7,7 +7,7 @@ Ruby의 테스트 툴인 Rspec을 이용하여 알고리즘 문제를 풀고 개
 먼저 bundler가 설치돼 있어야 합니다.  
 gem install bundler  
 
-https://github.com/parkeugene/playground.git  
+git clone https://github.com/parkeugene/playground.git  
 cd playground  
 bundle install  
 
