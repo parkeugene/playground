@@ -24,5 +24,5 @@ playground_$ guard
 예제
 ====
 app/self_nubmer.rb  
-app/self_nubmer_spec.rb  
+spec/self_nubmer_spec.rb  
 
